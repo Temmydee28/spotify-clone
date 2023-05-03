@@ -1,0 +1,124 @@
+body {
+    background-color: black;
+}
+
+.nav-link {
+    color: aliceblue;
+    padding-left: 30px;
+}
+
+hr {
+    color: white;
+    width: 270px;
+}
+
+.fa {
+    padding-right: 10px;
+}
+
+.nav {
+    float: left;
+
+}
+
+aside {
+    background-color: black;
+}
+
+.greetings {
+    padding-top: 40px;
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.second-section {
+    padding-left: 300px;
+    /* background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); */
+    background-image: linear-gradient(360deg, rgb(17, 16, 16), rgba(50, 51, 51, 0.506));
+}
+
+nav {
+    float: left;
+    position: fixed;
+    background-color: black;
+    height: 100%;
+    width: 270px;
+}
+
+.card-img-top {
+    width: 192px;
+height: 180px;
+    padding: 13px;
+    padding-bottom: 3px;
+}
+
+p {
+    font-size: 14px;
+    color: whitesmoke;
+}
+
+.artist-card {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+.v {
+    background-color: rgb(36, 37, 37);
+}
+
+.card-big {
+    background-color: rgb(22, 21, 21);
+    border: unset;
+}
+
+.card-title {
+    color: aliceblue;
+    padding-top: 10px;
+    font-size: 13.5px;
+}
+
+.card-bd-sm {
+    padding-left: 0px;
+}
+
+.img-col {
+    width: 102px;
+}
+
+.see-all {
+    float: right;
+    padding-right: 20px;
+    font-size: 12px;
+}
+ a > .see-all{
+    color:white;
+}
+.img-fluid{
+    width: 90px;
+    height: 80px;
+}
+.btn-sm{
+     /* visibility: hidden;  */
+     opacity: 0;
+
+    /* width:1000px; */
+    float:right;
+    margin-top:0px;
+
+}
+.v:hover{
+    background-color: rgb(10, 28, 22);
+}
+.btn-sm:hover{
+    opacity: 100;
+    opacity: 1;
+    background-color: rgb(10, 28, 22);
+    color: rgb(17, 255, 17);
+    border-radius: 60px;
+}
+

@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(2, 30, 20);
+}
+
+.card-img-top{
+    height: 60vh;
+    width: auto;
+    object-fit:cover;
+}
+th{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 38px;
+    font-weight: lighter;
+    
+}
+tr{
+    
+    height: 100px;
+}
+.td-data{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    
+}
+.artist{
+    font-size: 20px;
+    
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+}
+.btn{
+    /* padding-right: 30px; */
+    opacity: 1;
+
+    /* width:1000px; */
+    /* float:right; */
+    margin-left: px;
+    padding-right: 20px;
+    padding-top: 20px;
+    /* bottom: 50px; */
+}
+.btn-sm:hover{
+ 
+    opacity: 1;
+    color: rgb(27, 37, 27);
+    border-radius: 60px;
+    
+}
+.table-body{
+    background-color: rgb(87, 96, 93);
+}
+span{
+
+    margin-left: 50px;
+}
